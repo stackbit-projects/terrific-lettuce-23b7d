@@ -1,6 +1,6 @@
 ---
 id: '6'
-price: '100.00'
+price: '10000.00'
 title: Donec finibus
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/plant6.jpg
