@@ -1,6 +1,6 @@
 ---
 id: '3'
-price: '150.01'
+price: '150.02'
 title: Curabitur eu tempor !
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/favicon.png
