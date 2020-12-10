@@ -6,10 +6,21 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     content: >-
-      # Real, beautiful plants right to your door
+      # Real, beautiful plants right to your door!!!!!
 
       Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      enable Cart actions.asdfasdfasdf asdfa\
+
+      * fasdf
+
+      asdf
+
+      asd
+
+      f
+
+
+      ## fffff
     actions:
       - title: See all items
         url: /store
