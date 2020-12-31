@@ -22,7 +22,7 @@ sections:
 
       ## ffffffff
     actions:
-      - title: See all items
+      - title: See all itemsdddd
         url: /store
         arrow: true
   - type: featured_products_section
